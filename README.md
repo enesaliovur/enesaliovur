@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/enesaliovurdev" target="blank"><img src="https://img.shields.io/twitter/follow/enesaliovurdev?logo=twitter&style=for-the-badge" alt="enesaliovurdev" /></a> </p>
 
-- 🔭 I’m currently working on **makromusic**
+- 🔭 I’m currently working at **makromusic**
 
 - 🌱 I’m currently learning **iOS Native App Development**
 
